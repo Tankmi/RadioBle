@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <!--全局字体-->
+    <dimen name="text_size_large">17sp</dimen>
+    <dimen name="text_size_normal">15sp</dimen>
+    <dimen name="text_size_small">13sp</dimen>
+    <dimen name="text_size_tiny">10sp</dimen>
+    
+    <!-- 行间距 -->
+    <dimen name="line_space">5dp</dimen>
+
+    <dimen name="title_bar_height">88px</dimen>
+
+    <dimen name="detection_10">10sp</dimen>
+
+</resources>

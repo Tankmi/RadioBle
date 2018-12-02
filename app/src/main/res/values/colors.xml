@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 首页 -->
+    <color name="text_color_home_step">#ff1d89e4</color>
+    <color name="back_color_home_sport_info">#fff9f9f9</color>
+
+    <!-- 纯色 -->
+    <color name="transparency">#00ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="green">#00ff00</color>
+    <color name="red">#ffff0000</color>
+    <color name="blue">#ff0000ff</color>
+    <color name="orange">#ffa500</color>
+    <color name="yellow">#ffff00</color>
+    <color name="cyan">#00ffff</color>
+    <color name="gray">#808080</color>
+
+    <!-- 线条颜色-->
+    <color name="line_full">#ffdddddd</color>
+    <color name="line_imaginary">#ffdddddd</color>
+
+    <!--字体颜色-->
+    <color name="text_color_title">#ff4a4a4a</color>
+    <color name="text_color_normal">#ff333333</color>
+    <!-- 首页显示动态信息 用到了 -->
+    <color name="text_color_hint">#ff666666</color>
+
+    <!--背景色-->
+    <color name="back_color_main">#ffebebeb</color>
+    <color name="back_color_title">#ffffff</color>
+    <color name="back_color_item">#ffffff</color>
+
+</resources>

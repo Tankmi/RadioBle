@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Yuedong</string>
+    <string name="netstate_error">暂无网络连接，请检查。</string>
+    <string name="request_error">请求失败，请稍候尝试。</string>
+
+    <!-- XListView -->
+    <string name="ptr_pull_to_refresh">Pull to refresh</string>
+    <string name="ptr_release_to_refresh">Release to refresh</string>
+    <string name="ptr_refreshing">Refreshing</string>
+    <string name="ptr_last_updated">Updated: %1$s</string>
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">点击查看更多</string>
+    <string name="xlistview_footer_hint_normal_nodata">没有更多数据了</string>
+    <string name="xlistview_footer_hint_normal_nodata_now">暂无数据</string>
+    <string name="xlistview_footer_hint_normal_nodata_now_search">暂无与“%1$s”相关的数据</string>
+    <string name="xlistview_footer_hint_normal_nodata_data">已显示全部内容</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <!-- XListView -->
+</resources>
